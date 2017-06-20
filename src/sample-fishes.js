@@ -1,41 +1,40 @@
-// This is just some sample data so you don't have to think of your own!
 module.exports = {
   fish1: {
-    name: 'Pacific Halibut',
-    image: 'http://i.istockimg.com/file_thumbview_approve/36248396/5/stock-photo-36248396-blackened-cajun-sea-bass.jpg',
-    desc: 'Everyones favorite white fish. We will cut it to the size you need and ship it.',
+    name: 'NEW Apple iPhone ',
+    image: 'https://cdn.macrumors.com/article-new/2017/05/iphone-8-benjamin-geskin-800x666.jpg',
+    desc: '5C GSM Unlocked in Original Box 8 16GB 32GB',
     price: 1724,
     status: 'available'
   },
 
   fish2: {
-    name: 'Lobster',
-    image: 'http://i.istockimg.com/file_thumbview_approve/32135274/5/stock-photo-32135274-cooked-lobster.jpg',
-    desc: 'These tender, mouth-watering beauties are a fantastic hit at any dinner party.',
+    name: 'Apple iPad Pro 32GB',
+    image: 'https://www.bhphotovideo.com/images/images2500x2500/apple_mlmn2ll_a_9_7_ipad_pro_32gb_1241261.jpg',
+    desc: ' Wi-Fi, 9.7in - Gray (Latest Model) New Sealed - 220V Plug',
     price: 3200,
     status: 'available'
   },
 
   fish3: {
-    name: 'Sea Scallops',
-    image: 'http://i.istockimg.com/file_thumbview_approve/58624176/5/stock-photo-58624176-scallops-on-black-stone-plate.jpg',
-    desc: 'Big, sweet and tender. True dry-pack scallops from the icey waters of Alaska. About 8-10 per pound',
+    name: 'Apple Macbook Pro 13.3"',
+    image: 'https://store.storeimages.cdn-apple.com/4974/as-images.apple.com/is/image/AppleInc/aos/published/images/M/AC/MACBOOKPRO/MACBOOKPRO?wid=1879&hei=1061&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=6xyk93',
+    desc: 'BRAND NEW SEALED APPLE MLH12LL/A 2.9GHz 8GB 256GB *Touch Bar*',
     price: 1684,
     status: 'unavailable'
   },
 
   fish4: {
-    name: 'Mahi Mahi',
-    image: 'http://i.istockimg.com/file_thumbview_approve/12556651/5/stock-photo-12556651-mahimahi.jpg',
-    desc: 'Lean flesh with a mild, sweet flavor profile, moderately firm texture and large, moist flakes. ',
+    name: 'Wireless Keyboard',
+    image: 'http://www.amplebay.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/m/c/mc184ll_a_1.jpg',
+    desc: 'Apple A1314 MC184LL/B ',
     price: 1129,
     status: 'available'
   },
 
   fish5: {
-    name: 'King Crab',
-    image: 'http://i.istockimg.com/file_thumbview_approve/18294110/5/stock-photo-18294110-king-crab-legs.jpg',
-    desc: 'Crack these open and enjoy them plain or with one of our cocktail sauces',
+    name: ' Magic Mouse',
+    image: 'https://store.storeimages.cdn-apple.com/4974/as-images.apple.com/is/image/AppleInc/aos/published/images/M/LA/MLA02/MLA02?wid=1200&hei=630&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=Cw-lR0',
+    desc: 'Genuine Apple mouse  Model A1657',
     price: 4234,
     status: 'available'
   },
@@ -62,13 +61,7 @@ module.exports = {
     desc: 'The best mussels from the Pacific Northwest with a full-flavored and complex taste.',
     price: 425,
     status: 'available'
-  },
-
-  fish9: {
-    name: 'Jumbo Prawns',
-    image: 'http://i.istockimg.com/file_thumbview_approve/67121439/5/stock-photo-67121439-fresh-tiger-shrimp-on-ice-on-a-black-stone-table.jpg',
-    desc: 'With 21-25 two bite prawns in each pound, these sweet morsels are perfect for shish-kabobs.',
-    price: 2250,
-    status: 'available'
   }
+
+
 };

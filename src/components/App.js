@@ -88,6 +88,7 @@ class App extends React.Component{
     }
     render(){
         return (
+            <div>
             <div className="catch-of-the-day">
                 <div className="menu">
                     <Header tagline="Fresh Seafood Market" />
@@ -112,6 +113,7 @@ class App extends React.Component{
                     removeFish={this.removeFish}
                     storeId={this.props.params.storeId}
                 />
+            </div>
             </div>
         )
     }
